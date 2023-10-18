@@ -11,7 +11,7 @@ A ordem dos estudos não afeta o seu aprendizado.
 <br/>
 <br>
 Os treinamentos estão disponíveis através da plataforma da Udemy, links:
-<br/>
+<br/><br/>
 Módulo I Kotlin : https://www.udemy.com/course/formacao-mobile-android-kotlin/?referralCode=87AC0E37E19BD4087096
 <br/>
 Módulo II Swift : em desenvolvimento
