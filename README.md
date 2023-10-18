@@ -17,7 +17,10 @@ Módulo I Kotlin : https://www.udemy.com/course/formacao-mobile-android-kotlin/?
 Módulo II Swift : em desenvolvimento
 <br/>
 Módulo III React Native : em desenvolvimento
-<br/>
+<br/><br/><br/>
+
+Bons estudos...
+
 
 
 
