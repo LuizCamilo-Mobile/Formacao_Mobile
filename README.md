@@ -1,4 +1,4 @@
-# Formacao_Mobile
+# Formacao Mobile
 
 Nosso programa Formação Mobile foi planejado para iniciantes, nele vamos abordar três tecnologias, são elas:
 <br/>
